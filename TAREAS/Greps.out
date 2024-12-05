@@ -1,0 +1,656 @@
+tasca1
+applu
+dl1.miss_rate                0.0121 # miss rate (i.e., misses/ref)
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+ul2.miss_rate                0.1504 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp
+dl1.miss_rate                0.1248 # miss rate (i.e., misses/ref)
+il1.miss_rate                0.0005 # miss rate (i.e., misses/ref)
+ul2.miss_rate                0.9581 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7083 # instructions per cycle
+equake
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+il1.miss_rate                0.0020 # miss rate (i.e., misses/ref)
+ul2.miss_rate                0.0285 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2423 # instructions per cycle
+vpr
+dl1.miss_rate                0.0179 # miss rate (i.e., misses/ref)
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+ul2.miss_rate                0.2722 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6026 # instructions per cycle
+eon
+dl1.miss_rate                0.0109 # miss rate (i.e., misses/ref)
+il1.miss_rate                0.0177 # miss rate (i.e., misses/ref)
+ul2.miss_rate                0.0068 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5286 # instructions per cycle
+
+tasca2
+applu 1
+dl1.miss_rate                0.0890 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3514 # instructions per cycle
+ammp 1
+dl1.miss_rate                0.1519 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7008 # instructions per cycle
+equake 1
+dl1.miss_rate                0.1086 # miss rate (i.e., misses/ref)
+sim_IPC                      1.8532 # instructions per cycle
+vpr 1
+dl1.miss_rate                0.0652 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5347 # instructions per cycle
+eon 1
+dl1.miss_rate                0.1176 # miss rate (i.e., misses/ref)
+sim_IPC                      1.4050 # instructions per cycle
+applu 2
+dl1.miss_rate                0.0778 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3572 # instructions per cycle
+ammp 2
+dl1.miss_rate                0.1415 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7035 # instructions per cycle
+equake 2
+dl1.miss_rate                0.0415 # miss rate (i.e., misses/ref)
+sim_IPC                      2.0494 # instructions per cycle
+vpr 2
+dl1.miss_rate                0.0388 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5719 # instructions per cycle
+eon 2
+dl1.miss_rate                0.0815 # miss rate (i.e., misses/ref)
+sim_IPC                      1.4431 # instructions per cycle
+applu 4
+dl1.miss_rate                0.0727 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3595 # instructions per cycle
+ammp 4
+dl1.miss_rate                0.1322 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7056 # instructions per cycle
+equake 4
+dl1.miss_rate                0.0039 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2277 # instructions per cycle
+vpr 4
+dl1.miss_rate                0.0259 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5887 # instructions per cycle
+eon 4
+dl1.miss_rate                0.0497 # miss rate (i.e., misses/ref)
+sim_IPC                      1.4738 # instructions per cycle
+applu 8
+dl1.miss_rate                0.0121 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 8
+dl1.miss_rate                0.1248 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7083 # instructions per cycle
+equake 8
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2423 # instructions per cycle
+vpr 8
+dl1.miss_rate                0.0179 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6026 # instructions per cycle
+eon 8
+dl1.miss_rate                0.0109 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5286 # instructions per cycle
+applu 16
+dl1.miss_rate                0.0067 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3765 # instructions per cycle
+ammp 16
+dl1.miss_rate                0.1241 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7086 # instructions per cycle
+equake 16
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2425 # instructions per cycle
+vpr 16
+dl1.miss_rate                0.0146 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6075 # instructions per cycle
+eon 16
+dl1.miss_rate                0.0025 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5466 # instructions per cycle
+applu 32
+dl1.miss_rate                0.0067 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3766 # instructions per cycle
+ammp 32
+dl1.miss_rate                0.1239 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7086 # instructions per cycle
+equake 32
+dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2433 # instructions per cycle
+vpr 32
+dl1.miss_rate                0.0126 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6098 # instructions per cycle
+eon 32
+dl1.miss_rate                0.0015 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5489 # instructions per cycle
+applu 64
+dl1.miss_rate                0.0067 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3751 # instructions per cycle
+ammp 64
+dl1.miss_rate                0.1237 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7089 # instructions per cycle
+equake 64
+dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2435 # instructions per cycle
+vpr 64
+dl1.miss_rate                0.0107 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6183 # instructions per cycle
+eon 64
+dl1.miss_rate                0.0002 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5535 # instructions per cycle
+
+tasca3
+applu 1
+il1.miss_rate                0.0018 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3629 # instructions per cycle
+ammp 1
+il1.miss_rate                0.0292 # miss rate (i.e., misses/ref)
+sim_IPC                      0.6354 # instructions per cycle
+equake 1
+il1.miss_rate                0.1054 # miss rate (i.e., misses/ref)
+sim_IPC                      0.9382 # instructions per cycle
+vpr 1
+il1.miss_rate                0.0682 # miss rate (i.e., misses/ref)
+sim_IPC                      0.9287 # instructions per cycle
+eon 1
+il1.miss_rate                0.0848 # miss rate (i.e., misses/ref)
+sim_IPC                      1.0293 # instructions per cycle
+applu 2
+il1.miss_rate                0.0011 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3678 # instructions per cycle
+ammp 2
+il1.miss_rate                0.0236 # miss rate (i.e., misses/ref)
+sim_IPC                      0.6499 # instructions per cycle
+equake 2
+il1.miss_rate                0.0842 # miss rate (i.e., misses/ref)
+sim_IPC                      1.0742 # instructions per cycle
+vpr 2
+il1.miss_rate                0.0446 # miss rate (i.e., misses/ref)
+sim_IPC                      1.1031 # instructions per cycle
+eon 2
+il1.miss_rate                0.0728 # miss rate (i.e., misses/ref)
+sim_IPC                      1.0900 # instructions per cycle
+applu 4
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 4
+il1.miss_rate                0.0089 # miss rate (i.e., misses/ref)
+sim_IPC                      0.6860 # instructions per cycle
+equake 4
+il1.miss_rate                0.0683 # miss rate (i.e., misses/ref)
+sim_IPC                      1.2203 # instructions per cycle
+vpr 4
+il1.miss_rate                0.0196 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3382 # instructions per cycle
+eon 4
+il1.miss_rate                0.0658 # miss rate (i.e., misses/ref)
+sim_IPC                      1.1299 # instructions per cycle
+applu 8
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 8
+il1.miss_rate                0.0039 # miss rate (i.e., misses/ref)
+sim_IPC                      0.6997 # instructions per cycle
+equake 8
+il1.miss_rate                0.0339 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6248 # instructions per cycle
+vpr 8
+il1.miss_rate                0.0039 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5367 # instructions per cycle
+eon 8
+il1.miss_rate                0.0550 # miss rate (i.e., misses/ref)
+sim_IPC                      1.2026 # instructions per cycle
+applu 16
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 16
+il1.miss_rate                0.0012 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7066 # instructions per cycle
+equake 16
+il1.miss_rate                0.0174 # miss rate (i.e., misses/ref)
+sim_IPC                      1.8996 # instructions per cycle
+vpr 16
+il1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5960 # instructions per cycle
+eon 16
+il1.miss_rate                0.0326 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3728 # instructions per cycle
+applu 32
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 32
+il1.miss_rate                0.0005 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7083 # instructions per cycle
+equake 32
+il1.miss_rate                0.0020 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2423 # instructions per cycle
+vpr 32
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6026 # instructions per cycle
+eon 32
+il1.miss_rate                0.0177 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5286 # instructions per cycle
+applu 64
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 64
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7094 # instructions per cycle
+equake 64
+il1.miss_rate                0.0002 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2875 # instructions per cycle
+vpr 64
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6026 # instructions per cycle
+eon 64
+il1.miss_rate                0.0035 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6975 # instructions per cycle
+
+tasca4
+applu 4_32
+ul2.miss_rate                0.1512 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 4_32
+ul2.miss_rate                0.9590 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7080 # instructions per cycle
+equake 4_32
+ul2.miss_rate                0.0295 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2420 # instructions per cycle
+vpr 4_32
+ul2.miss_rate                0.3346 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5860 # instructions per cycle
+eon 4_32
+ul2.miss_rate                0.0367 # miss rate (i.e., misses/ref)
+sim_IPC                      1.4978 # instructions per cycle
+applu 4_64
+ul2.miss_rate                0.1504 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 4_64
+ul2.miss_rate                0.9581 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7083 # instructions per cycle
+equake 4_64
+ul2.miss_rate                0.0285 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2423 # instructions per cycle
+vpr 4_64
+ul2.miss_rate                0.2722 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6026 # instructions per cycle
+eon 4_64
+ul2.miss_rate                0.0068 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5286 # instructions per cycle
+applu 4_128
+ul2.miss_rate                0.1504 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 4_128
+ul2.miss_rate                0.9579 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7084 # instructions per cycle
+equake 4_128
+ul2.miss_rate                0.0284 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2424 # instructions per cycle
+vpr 4_128
+ul2.miss_rate                0.2284 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6143 # instructions per cycle
+eon 4_128
+ul2.miss_rate                0.0013 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5328 # instructions per cycle
+applu 4_256
+ul2.miss_rate                0.1504 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 4_256
+ul2.miss_rate                0.9578 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7084 # instructions per cycle
+equake 4_256
+ul2.miss_rate                0.0283 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2424 # instructions per cycle
+vpr 4_256
+ul2.miss_rate                0.1930 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6241 # instructions per cycle
+eon 4_256
+ul2.miss_rate                0.0005 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5336 # instructions per cycle
+applu 4_512
+ul2.miss_rate                0.1504 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 4_512
+ul2.miss_rate                0.9578 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7084 # instructions per cycle
+equake 4_512
+ul2.miss_rate                0.0283 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2424 # instructions per cycle
+vpr 4_512
+ul2.miss_rate                0.1621 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6330 # instructions per cycle
+eon 4_512
+ul2.miss_rate                0.0005 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5336 # instructions per cycle
+
+tasca5
+applu 1
+dl1.miss_rate                0.0284 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3698 # instructions per cycle
+ammp 1
+dl1.miss_rate                0.1411 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7054 # instructions per cycle
+equake 1
+dl1.miss_rate                0.0244 # miss rate (i.e., misses/ref)
+sim_IPC                      2.1269 # instructions per cycle
+vpr 1
+dl1.miss_rate                0.0366 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5714 # instructions per cycle
+eon 1
+dl1.miss_rate                0.0475 # miss rate (i.e., misses/ref)
+sim_IPC                      1.4612 # instructions per cycle
+applu 2
+dl1.miss_rate                0.0172 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3737 # instructions per cycle
+ammp 2
+dl1.miss_rate                0.1292 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7063 # instructions per cycle
+equake 2
+dl1.miss_rate                0.0022 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2338 # instructions per cycle
+vpr 2
+dl1.miss_rate                0.0208 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5973 # instructions per cycle
+eon 2
+dl1.miss_rate                0.0216 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5026 # instructions per cycle
+applu 4
+dl1.miss_rate                0.0121 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 4
+dl1.miss_rate                0.1248 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7083 # instructions per cycle
+equake 4
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2423 # instructions per cycle
+vpr 4
+dl1.miss_rate                0.0179 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6026 # instructions per cycle
+eon 4
+dl1.miss_rate                0.0109 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5286 # instructions per cycle
+applu 8
+dl1.miss_rate                0.0121 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3754 # instructions per cycle
+ammp 8
+dl1.miss_rate                0.1243 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7085 # instructions per cycle
+equake 8
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2424 # instructions per cycle
+vpr 8
+dl1.miss_rate                0.0167 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6044 # instructions per cycle
+eon 8
+dl1.miss_rate                0.0081 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5342 # instructions per cycle
+applu 16
+dl1.miss_rate                0.0102 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3755 # instructions per cycle
+ammp 16
+dl1.miss_rate                0.1243 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7085 # instructions per cycle
+equake 16
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2424 # instructions per cycle
+vpr 16
+dl1.miss_rate                0.0159 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6062 # instructions per cycle
+eon 16
+dl1.miss_rate                0.0065 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5387 # instructions per cycle
+applu 32
+dl1.miss_rate                0.0086 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3757 # instructions per cycle
+ammp 32
+dl1.miss_rate                0.1246 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7084 # instructions per cycle
+equake 32
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2424 # instructions per cycle
+vpr 32
+dl1.miss_rate                0.0158 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6066 # instructions per cycle
+eon 32
+dl1.miss_rate                0.0045 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5421 # instructions per cycle
+applu 64
+dl1.miss_rate                0.0077 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3759 # instructions per cycle
+ammp 64
+dl1.miss_rate                0.1251 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7084 # instructions per cycle
+equake 64
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2424 # instructions per cycle
+vpr 64
+dl1.miss_rate                0.0157 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6067 # instructions per cycle
+eon 64
+dl1.miss_rate                0.0042 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5425 # instructions per cycle
+
+tasca6
+applu 1
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 1
+il1.miss_rate                0.0051 # miss rate (i.e., misses/ref)
+sim_IPC                      0.6977 # instructions per cycle
+equake 1
+il1.miss_rate                0.0278 # miss rate (i.e., misses/ref)
+sim_IPC                      1.7102 # instructions per cycle
+vpr 1
+il1.miss_rate                0.0113 # miss rate (i.e., misses/ref)
+sim_IPC                      1.4353 # instructions per cycle
+eon 1
+il1.miss_rate                0.0423 # miss rate (i.e., misses/ref)
+sim_IPC                      1.2966 # instructions per cycle
+applu 2
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 2
+il1.miss_rate                0.0012 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7066 # instructions per cycle
+equake 2
+il1.miss_rate                0.0174 # miss rate (i.e., misses/ref)
+sim_IPC                      1.8996 # instructions per cycle
+vpr 2
+il1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5960 # instructions per cycle
+eon 2
+il1.miss_rate                0.0326 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3728 # instructions per cycle
+applu 4
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 4
+il1.miss_rate                0.0003 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7089 # instructions per cycle
+equake 4
+il1.miss_rate                0.0036 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2137 # instructions per cycle
+vpr 4
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6025 # instructions per cycle
+eon 4
+il1.miss_rate                0.0314 # miss rate (i.e., misses/ref)
+sim_IPC                      1.4068 # instructions per cycle
+applu 8
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 8
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7094 # instructions per cycle
+equake 8
+il1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2826 # instructions per cycle
+vpr 8
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6025 # instructions per cycle
+eon 8
+il1.miss_rate                0.0345 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3844 # instructions per cycle
+applu 16
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 16
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7095 # instructions per cycle
+equake 16
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2926 # instructions per cycle
+vpr 16
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6026 # instructions per cycle
+eon 16
+il1.miss_rate                0.0362 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3666 # instructions per cycle
+applu 32
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 32
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7095 # instructions per cycle
+equake 32
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2926 # instructions per cycle
+vpr 32
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6026 # instructions per cycle
+eon 32
+il1.miss_rate                0.0429 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3093 # instructions per cycle
+applu 64
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 64
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7095 # instructions per cycle
+equake 64
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2926 # instructions per cycle
+vpr 64
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6026 # instructions per cycle
+eon 64
+il1.miss_rate                0.0497 # miss rate (i.e., misses/ref)
+sim_IPC                      1.2479 # instructions per cycle
+
+tasca7
+applu 8
+dl1.miss_rate                0.0397 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3695 # instructions per cycle
+ammp 8
+dl1.miss_rate                0.1271 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7084 # instructions per cycle
+equake 8
+dl1.miss_rate                0.0022 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2386 # instructions per cycle
+vpr 8
+dl1.miss_rate                0.0320 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5787 # instructions per cycle
+eon 8
+dl1.miss_rate                0.0139 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5356 # instructions per cycle
+applu 16
+dl1.miss_rate                0.0215 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3737 # instructions per cycle
+ammp 16
+dl1.miss_rate                0.1255 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7084 # instructions per cycle
+equake 16
+dl1.miss_rate                0.0012 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2411 # instructions per cycle
+vpr 16
+dl1.miss_rate                0.0248 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5867 # instructions per cycle
+eon 16
+dl1.miss_rate                0.0094 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5356 # instructions per cycle
+applu 32
+dl1.miss_rate                0.0121 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 32
+dl1.miss_rate                0.1248 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7083 # instructions per cycle
+equake 32
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2423 # instructions per cycle
+vpr 32
+dl1.miss_rate                0.0179 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6026 # instructions per cycle
+eon 32
+dl1.miss_rate                0.0109 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5286 # instructions per cycle
+applu 64
+dl1.miss_rate                0.0073 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3756 # instructions per cycle
+ammp 64
+dl1.miss_rate                0.1259 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7075 # instructions per cycle
+equake 64
+dl1.miss_rate                0.0005 # miss rate (i.e., misses/ref)
+sim_IPC                      2.2420 # instructions per cycle
+vpr 64
+dl1.miss_rate                0.0140 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6108 # instructions per cycle
+eon 64
+dl1.miss_rate                0.0161 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5124 # instructions per cycle
+
+tasca8
+applu 8
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 8
+il1.miss_rate                0.0030 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7014 # instructions per cycle
+equake 8
+il1.miss_rate                0.0332 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6135 # instructions per cycle
+vpr 8
+il1.miss_rate                0.0005 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5921 # instructions per cycle
+eon 8
+il1.miss_rate                0.0972 # miss rate (i.e., misses/ref)
+sim_IPC                      0.8665 # instructions per cycle
+applu 16
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 16
+il1.miss_rate                0.0018 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7045 # instructions per cycle
+equake 16
+il1.miss_rate                0.0221 # miss rate (i.e., misses/ref)
+sim_IPC                      1.7974 # instructions per cycle
+vpr 16
+il1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5955 # instructions per cycle
+eon 16
+il1.miss_rate                0.0554 # miss rate (i.e., misses/ref)
+sim_IPC                      1.1326 # instructions per cycle
+applu 32
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 32
+il1.miss_rate                0.0012 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7066 # instructions per cycle
+equake 32
+il1.miss_rate                0.0174 # miss rate (i.e., misses/ref)
+sim_IPC                      1.8996 # instructions per cycle
+vpr 32
+il1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5960 # instructions per cycle
+eon 32
+il1.miss_rate                0.0326 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3728 # instructions per cycle
+applu 64
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3746 # instructions per cycle
+ammp 64
+il1.miss_rate                0.0007 # miss rate (i.e., misses/ref)
+sim_IPC                      0.7079 # instructions per cycle
+equake 64
+il1.miss_rate                0.0145 # miss rate (i.e., misses/ref)
+sim_IPC                      1.9702 # instructions per cycle
+vpr 64
+il1.miss_rate                0.0003 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5971 # instructions per cycle
+eon 64
+il1.miss_rate                0.0207 # miss rate (i.e., misses/ref)
+sim_IPC                      1.5132 # instructions per cycle
+
